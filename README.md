@@ -2,6 +2,6 @@
 
 Parcial 3 - Práctica 7
 
-[Github Pages]()
+[Github Pages](https://josejuliojim.github.io/API/)
 
 [JavaScript](API.js)
